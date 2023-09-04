@@ -1,0 +1,6 @@
+5
+monster_1.txt
+monster_2.txt
+monster_3.txt
+monster_4.txt
+monster_5.txt

@@ -1,0 +1,8 @@
+200
+        Menu         
+ ------------------- 
+  1-Ir para Dungeon  
+  2-Ir para Loja     
+  3-Ver Status       
+  4-Enfrentar Boss   
+  5-Desistir             
